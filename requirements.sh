@@ -7,4 +7,8 @@ set -e
 
 # For example, install specific package versions with pip 
 # pip3 install pandas==0.20.3
-
+pip install --upgrade pip
+pip3 install pandas==0.23.4
+pip3 install matplotlib==2.2.2
+pip3 install seaborn==0.9.0
+pip3 install scikit-learn==0.19.1
