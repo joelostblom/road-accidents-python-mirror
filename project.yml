@@ -16,6 +16,7 @@ long_description: |
   communicate the result effectively?
 
   This project lets you apply skills from:
+  
   - [Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science), including how to navigate the file system and view files
   - [pandas Foundations](https://www.datacamp.com/courses/pandas-foundations), including reading, exploring, filtering, and grouping data
   - [Manipulating DataFrames with pandas](https://www.datacamp.com/courses/manipulating-dataframes-with-pandas), including how to reshape data into the long format and how to perform multiple aggregations
